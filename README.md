@@ -1,1 +1,1 @@
-# .github
+# Zeus Tech Github Organisation
